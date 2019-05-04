@@ -1,2 +1,4 @@
-# helloo
-Just other repoditory
+#helloo
+
+Hi humans 
+
